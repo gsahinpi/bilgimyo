@@ -1,0 +1,11 @@
+
+First go to https://github.com/toddmotto/public-apis  and pick a Json api.
+(Önce  https://github.com/toddmotto/public-apis adresine gidip bir tane Json api seçin)
+Build a data model.
+Json datasını yansıtan bir java classı yazın ( eğer percelable interface
+kullanacaksınız http://www.parcelabler.com/)
+Recycle view kullanarak basit bir liste (her eleman için bir de button olacak)
+her elemanın buttonu tıklandığında detayları gösteren yeni bir activity başlar.
+Template olarak 
+https://github.com/gsahinpi/bilgimyo/blob/master/asyncrecycler.zip
+Kullanın.
